@@ -6,10 +6,10 @@
   <h3>Namaste 🙏 I'm Limchhen Revotey</h3>
 
   <!-- Social Badges -->
-  <a href="mailto:youremail@gmail.com">
+  <a href="https://revotey.limchhenn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/LimchhenRevotey" target="_blank">
+  <a href="https://www.linkedin.com/in/limchhen-revotey-591619359/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
@@ -48,14 +48,14 @@
 
 <!-- Quick Follow Links -->
 <p align="right">
-  <b>⚡ Follow Me on:</b>
+  <b>⚡ Follow Me on: </b>
   <a href="https://linkedin.com/in/LimchhenRevotey" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/LimchhenRevotey" target="_blank">
     <img src="https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="https://revotey.limchhenn@gmail.com">
     <img src="https://img.shields.io/badge/-GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
