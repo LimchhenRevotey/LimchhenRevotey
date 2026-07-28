@@ -1,0 +1,63 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1b2a"/>
+      <stop offset="45%" stop-color="#1b2a3d"/>
+      <stop offset="70%" stop-color="#3a2a2a"/>
+      <stop offset="100%" stop-color="#0d1b2a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8c42" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ff8c42" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- glow behind horizon -->
+  <ellipse cx="850" cy="90" rx="260" ry="90" fill="url(#glow)"/>
+
+  <!-- industrial silhouette (cranes / pipes) -->
+  <g stroke="#0a1420" stroke-width="4" fill="#0a1420" opacity="0.85">
+    <rect x="60" y="120" width="14" height="160"/>
+    <rect x="30" y="270" width="90" height="14"/>
+    <line x1="67" y1="120" x2="140" y2="150"/>
+    <line x1="67" y1="120" x2="20" y2="150"/>
+
+    <rect x="950" y="90" width="14" height="190"/>
+    <rect x="900" y="80" width="120" height="12"/>
+    <line x1="957" y1="90" x2="1020" y2="30"/>
+
+    <rect x="1080" y="150" width="10" height="130"/>
+    <rect x="1050" y="145" width="70" height="10"/>
+
+    <circle cx="1150" cy="200" r="26" fill="none" stroke="#0a1420" stroke-width="6"/>
+    <line x1="1150" y1="174" x2="1150" y2="140"/>
+  </g>
+
+  <!-- code snippet, top right (like editor overlay) -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#7fd1ae" opacity="0.85">
+    <text x="960" y="40">let x = new;</text>
+    <text x="960" y="58">nextLine: 15 Level;</text>
+    <text x="960" y="76">print(x.value);</text>
+    <text x="960" y="94">x(x).live()</text>
+  </g>
+
+  <!-- quote top-left -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="12" fill="#c7d3e0" opacity="0.75">
+    <text x="40" y="30">Passion for coding,</text>
+    <text x="40" y="46">Nature &amp; masterpieces.</text>
+    <text x="40" y="62">Extending moments of pure bliss,</text>
+    <text x="40" y="78">lost in nature's endless beauty,</text>
+    <text x="40" y="94">every breath a masterpiece,</text>
+    <text x="40" y="110">embracing the beauty around us.</text>
+    <text x="40" y="126">Simply breathtaking.</text>
+  </g>
+
+  <!-- main headline -->
+  <text x="45" y="200" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-weight="700" font-size="46" fill="#f4f4f4">Josh The Boss</text>
+
+  <!-- signature bottom right -->
+  <text x="1060" y="270" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#e8e8e8" opacity="0.9">Master Judah</text>
+</svg>

@@ -1,117 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDEFFF,50:A7D8F0,100:89CFF0&height=230&section=header&text=Limchhen%20Revotey&fontSize=46&fontColor=1B4965&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=1B4965" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4EA8DE&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Vue+3+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+Modern+Web+Applications;Refining+Backend+System+Architecture" alt="Typing SVG" />
+<!-- ===== BANNER (custom SVG recreating the industrial-scene banner) ===== -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.svg" width="100%" alt="banner"/>
 
 <br/>
 
-<a href="https://revotey.limchhen@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-89CFF0?style=for-the-badge&logo=gmail&logoColor=1B4965" alt="Gmail"/>
+<!-- ===== TITLE (custom SVG, bold cyan rounded font) ===== -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/title.svg" width="420"/>
+
+<h2>Namaste 🙏 I'm Joshua Thadi</h2>
+
+</div>
+
+---
+
+## 🪄 About Me
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+
+<img align="right" width="230" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/coder.gif" alt="coding gif"/>
+
+- 🌟 Began the Journey with Software Development in **ASP.NET MVC**
+- 💻 I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML
+- 📚 Exploring the beauty of **.NET, Data Science & AI/ML**, one line at a time
+- 🎓 I am currently pursuing a degree in Computer Science
+- 🏆 I worked on .Net Framework and Hands-on experience in Full Stack
+- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python
+- ⚡ Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation
+- 😄 I only like perfection
+
+<br clear="right"/>
+
+### 🌐 Follow Me on
+
+<p align="left">
+<a href="https://pinterest.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
+<a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧑‍💻 Languages and tools I Have placed My Hands On
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,figma,md,cs,dotnet,c,cpp,cplusplus,py,js,java,python" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="left">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🖥️ Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
+</p>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### ⭐ Top Contributed Repo
+
+<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%"/>
+
+</td>
+<td width="50%">
+
+### 👍 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Support Me 💰
+
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
-<a href="https://www.linkedin.com/in/limchhen-revotey-591619359/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-89CFF0?style=for-the-badge&logo=linkedin&logoColor=1B4965" alt="LinkedIn"/>
-</a>
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-89CFF0?style=for-the-badge&logo=vercel&logoColor=1B4965" alt="Portfolio"/>
-</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&color=CDEFFF" width="1" height="1" alt=""/>
-
-</div>
-
-<h3 align="center">💠 About Me 💠</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A7D8F0&height=2&width=100%" width="100%"/>
-
-- 🚀 I'm a **Full-Stack Developer** passionate about building fast, scalable, and user-friendly web applications.
-- 🛠️ Currently focused on **building modern web applications** and **refining backend system architecture**.
-- 🌱 Constantly learning new tools and best practices to write cleaner, more efficient code.
-- ⚙️ I enjoy working across the entire stack — from designing intuitive UIs to architecting robust APIs and databases.
-- 🤝 Open to collaborating on interesting full-stack projects and open-source contributions.
-- 📫 Reach out to me — always happy to connect and talk tech!
-
-<br/>
-
-<h3 align="center">💠 Skills & Tech Stack 💠</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A7D8F0&height=2&width=100%" width="100%"/>
-
-<div align="center">
-
-**🎨 Frontend**
-<br/>
-<img src="https://img.shields.io/badge/Vue.js-89CFF0?style=for-the-badge&logo=vuedotjs&logoColor=1B4965" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/JavaScript-89CFF0?style=for-the-badge&logo=javascript&logoColor=1B4965" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Bootstrap-89CFF0?style=for-the-badge&logo=bootstrap&logoColor=1B4965" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/HTML5-89CFF0?style=for-the-badge&logo=html5&logoColor=1B4965" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-89CFF0?style=for-the-badge&logo=css3&logoColor=1B4965" alt="CSS3"/>
-
-<br/><br/>
-
-**⚙️ Backend**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-89CFF0?style=for-the-badge&logo=nodedotjs&logoColor=1B4965" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-89CFF0?style=for-the-badge&logo=express&logoColor=1B4965" alt="Express.js"/>
-
-<br/><br/>
-
-**🗄️ Database**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-89CFF0?style=for-the-badge&logo=mysql&logoColor=1B4965" alt="MySQL"/>
-
-<br/><br/>
-
-**🧰 Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-89CFF0?style=for-the-badge&logo=git&logoColor=1B4965" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-89CFF0?style=for-the-badge&logo=github&logoColor=1B4965" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Postman-89CFF0?style=for-the-badge&logo=postman&logoColor=1B4965" alt="Postman"/>
-<img src="https://img.shields.io/badge/VS%20Code-89CFF0?style=for-the-badge&logo=visualstudiocode&logoColor=1B4965" alt="VS Code"/>
-
-</div>
-
-<br/>
-
-<h3 align="center">💠 GitHub Statistics 💠</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A7D8F0&height=2&width=100%" width="100%"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=1B4965&icon_color=4EA8DE&text_color=333333&border_radius=12" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1B4965&text_color=333333&border_radius=12" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&background=FFFFFF&ring=4EA8DE&fire=89CFF0&currStreakLabel=1B4965&sideLabels=333333&currStreakNum=1B4965&sideNums=333333&dates=6A99B0&border_radius=12" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<h3 align="center">💠 Contribution Graph 💠</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A7D8F0&height=2&width=100%" width="100%"/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=FFFFFF&color=1B4965&line=4EA8DE&point=89CFF0&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### 👁️ Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=89CFF0&style=for-the-badge&label=PROFILE+VIEWS&labelColor=CDEFFF" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:A7D8F0,100:CDEFFF&height=120&section=footer" width="100%"/>
-
-<sub>Thanks for stopping by! ✨</sub>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/footer-banner.png" width="100%" alt="footer banner"/>
 
 </div>
