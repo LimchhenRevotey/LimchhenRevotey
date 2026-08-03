@@ -63,14 +63,14 @@
 
 <div align="center">
   <a href="https://github.com/LimchhenRevotey">
-    <img src="https://github-readme-stats.vercel.app/api?username=LimchhenRevotey&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=89CFF0&icon_color=4EA8DE&text_color=CDEFFF&border_radius=12" height="165"/>
+    <img src="https://fork-psi-nine.vercel.app/api?username=LimchhenRevotey&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=89CFF0&icon_color=4EA8DE&text_color=CDEFFF&border_radius=12" height="165"/>
   </a>
   <a href="https://github.com/LimchhenRevotey">
     <img src="https://streak-stats.demolab.com?user=LimchhenRevotey&hide_border=true&background=0D1117&ring=4EA8DE&fire=89CFF0&currStreakLabel=89CFF0&sideLabels=CDEFFF&currStreakNum=CDEFFF&sideNums=CDEFFF&dates=6A99B0&border_radius=12" height="165"/>
   </a>
   <br/><br/>
   <a href="https://github.com/LimchhenRevotey">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimchhenRevotey&layout=compact&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=CDEFFF&border_radius=12" alt="Most Used Languages"/>
+    <img src="https://fork-psi-nine.vercel.app/api/top-langs/?username=LimchhenRevotey&layout=compact&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=CDEFFF&border_radius=12" alt="Most Used Languages"/>
   </a>
 </div>
 
